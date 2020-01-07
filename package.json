@@ -1,0 +1,17 @@
+{
+  "name": "jstc_docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "d": "vuepress dev .",
+    "b": "vuepress build . && y a",
+    "1": "git add .",
+    "2": "git commit -m '1'",
+    "3": "git push gitee master && git push github master",
+    "a": "y 1 && y 2 && y 3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
